@@ -1,10 +1,15 @@
 import fs from "fs";
+import os from "os";
 import path from "path";
 import { v4 as uuidv4 } from "uuid";
 
 import { CartItem, DeliveryDetails, Order, OrderStatus } from "@/lib/db/types";
 
-const ORDERS_FILE = path.join(process.cwd(), "lib", "db", ".orders-store.json");
+// Vercel serverless: only /tmp is writable; project dir is read-only (writes → 500).
+const ORDERS_FILE =
+  process.env.VERCEL === "1"
+    ? path.join(os.tmpdir(), "foodrush-orders-store.json")
+    : path.join(process.cwd(), "lib", "db", ".orders-store.json");
 type OrdersStore = Record<string, Order>;
 const IS_TEST = process.env.NODE_ENV === "test";
 const testStore = new Map<string, Order>();

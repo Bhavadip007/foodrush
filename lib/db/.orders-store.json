@@ -1,0 +1,147 @@
+{
+  "8c015fea-2c82-4cee-aed4-e7166968ac90": {
+    "id": "8c015fea-2c82-4cee-aed4-e7166968ac90",
+    "items": [
+      {
+        "menuItem": {
+          "id": "1",
+          "name": "Truffle Margherita",
+          "description": "Hand-stretched sourdough with San Marzano tomatoes, buffalo mozzarella, basil, and black truffle finish.",
+          "price": 18.99,
+          "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=1200&q=80&auto=format&fit=crop",
+          "category": "Pizza",
+          "rating": 4.9,
+          "prepTime": 18,
+          "isPopular": true,
+          "calories": 820
+        },
+        "quantity": 1
+      }
+    ],
+    "deliveryDetails": {
+      "name": "codeshield",
+      "address": "fsfsfasfasfasf",
+      "phone": "6355800809"
+    },
+    "status": "Delivered",
+    "totalAmount": 18.99,
+    "createdAt": "2026-04-28T12:34:16.137Z",
+    "updatedAt": "2026-04-28T12:34:58.001Z"
+  },
+  "3748754e-b886-418b-9dcf-6cb3712abe87": {
+    "id": "3748754e-b886-418b-9dcf-6cb3712abe87",
+    "items": [
+      {
+        "menuItem": {
+          "id": "1",
+          "name": "Truffle Margherita",
+          "description": "Hand-stretched sourdough with San Marzano tomatoes, buffalo mozzarella, basil, and black truffle finish.",
+          "price": 18.99,
+          "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=1200&q=80&auto=format&fit=crop",
+          "category": "Pizza",
+          "rating": 4.9,
+          "prepTime": 18,
+          "isPopular": true,
+          "calories": 820
+        },
+        "quantity": 1
+      }
+    ],
+    "deliveryDetails": {
+      "name": "Guess the animal Tail ?",
+      "address": "thgfhfdhhhhfhfhf",
+      "phone": "8980959982"
+    },
+    "status": "Delivered",
+    "totalAmount": 18.99,
+    "createdAt": "2026-04-28T12:37:26.173Z",
+    "updatedAt": "2026-04-28T12:38:08.190Z"
+  },
+  "2ccf0430-7c00-4385-ac08-caad78637220": {
+    "id": "2ccf0430-7c00-4385-ac08-caad78637220",
+    "items": [
+      {
+        "menuItem": {
+          "id": "1",
+          "name": "Truffle Margherita",
+          "description": "Hand-stretched sourdough with San Marzano tomatoes, buffalo mozzarella, basil, and black truffle finish.",
+          "price": 18.99,
+          "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=1200&q=80&auto=format&fit=crop",
+          "category": "Pizza",
+          "rating": 4.9,
+          "prepTime": 18,
+          "isPopular": true,
+          "calories": 820
+        },
+        "quantity": 1
+      }
+    ],
+    "deliveryDetails": {
+      "name": "codeshield",
+      "address": "https://fantastic-churros-ee4f79.netlify.app/",
+      "phone": "8980959982"
+    },
+    "status": "Delivered",
+    "totalAmount": 18.99,
+    "createdAt": "2026-04-29T04:48:59.031Z",
+    "updatedAt": "2026-04-29T04:49:40.879Z"
+  },
+  "6016d041-4aa7-4c2e-ba82-1f5493b4e9b8": {
+    "id": "6016d041-4aa7-4c2e-ba82-1f5493b4e9b8",
+    "items": [
+      {
+        "menuItem": {
+          "id": "1",
+          "name": "Truffle Margherita",
+          "description": "Hand-stretched sourdough with San Marzano tomatoes, buffalo mozzarella, basil, and black truffle finish.",
+          "price": 18.99,
+          "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=1200&q=80&auto=format&fit=crop",
+          "category": "Pizza",
+          "rating": 4.9,
+          "prepTime": 18,
+          "isPopular": true,
+          "calories": 820
+        },
+        "quantity": 1
+      }
+    ],
+    "deliveryDetails": {
+      "name": "codeshield",
+      "address": "/dev/fd/13:18: command not found: compdef\ngvm@Rushabhs-MacBook-Pro Raftlabs % npm run dev\nnpm error Missing script: \"dev\"\nnpm error\nnpm error To see a list of scripts, run:\nnpm error   npm run\nnpm error A complete log of this run can be found in: /Users/gvm/.npm/_logs/2026-04-29T04_48_07_225Z-debug-0.log\ngvm@Rushabhs-MacBook-Pro Raftlabs % npm \nnpm <command>\n\nUsage:\n\nnpm install        install all the dependencies in your project\nnpm install <foo>  add the <foo> dependency to your project\nnpm test           run this project's tests\nnpm run <foo>      run the script named <foo>\nnpm <command> -h   quick help on <command>\nnpm -l             display usage info for all commands\nnpm help <term>    search for help on <term>\nnpm help npm       more involved overview\n\nAll commands:\n\n    access, adduser, audit, bugs, cache, ci, completion,\n    config, dedupe, deprecate, diff, dist-tag, docs, doctor,\n    edit, exec, explain, explore, find-dupes, fund, get, help,\n    help-search, hook, init, install, install-ci-test,\n    install-test, link, ll, login, logout, ls, org, outdated,\n    owner, pack, ping, pkg, prefix, profile, prune, publish,\n    query, rebuild, repo, restart, root, run-script, sbom,\n    search, set, shrinkwrap, star, stars, start, stop, team,\n    test, token, uninstall, unpublish, unstar, update, version,\n    view, whoami\n\nSpecify configs in the ini-formatted file:\n    /Users/gvm/.npmrc\nor on the command line via: npm <command> --key=value\n\nMore configuration info: npm help config\nConfiguration fields: npm help 7 config\n\nnpm@10.8.2 /usr/local/Cellar/node@20/20.19.4/lib/node_modules/npm\ngvm@Rushabhs-MacBook-Pro Raftlabs % npm i\n\nremoved 36 packages, and audited 2 packages in 749ms\n\nfound 0 vulnerabilities\ngvm@Rushabhs-MacBook-Pro Raftlabs % cd food-delivery-app \ngvm@Rushabhs-MacBook-Pro food-delivery-app % npm run dev\n\n> food-delivery-app@0.1.0 dev\n> next dev\n\n  ▲ Next.js 14.2.35\n  - Local:        http://localhost:3000\n  - Experiments (use with caution):\n    · typedRoutes\n\n ✓ Starting...\n> [PWA] PWA support is disabled\n> [PWA] PWA support is disabled\n ✓ Ready in 1855ms\n ○ Compiling / ...\n ✓ Compiled / in 1985ms (1426 modules)\n GET / 200 in 2485ms\n ✓ Compiled /api/menu in 460ms (749 modules)\n GET /api/menu 200 in 531ms\n GET / 200 in 135ms\n GET /api/menu 200 in 12ms\n ○ Compiling /_not-found ...\n ✓ Compiled /_not-found in 520ms (1458 modules)\n GET /.well-known/appspecific/com.chrome.devtools.json 404 in 691ms\n GET /_next/static/chunks/app/LayoutGroupContext.mjs.map 404 in 267ms\n GET /_next/static/chunks/app/LayoutGroupContext.mjs.map 404 in 263ms\n ✓ Compiled /checkout in 485ms (1620 modules)\n GET /_next/static/chunks/app/checkout/LayoutGroupContext.mjs.map 404 in 73ms\n ✓ Compiled /api/orders in 192ms (941 modules)\n POST /api/orders 201 in 293ms\n ○ Compiling /order/[id] ...\n ✓ Compiled /order/[id] in 512ms (1742 modules)\n GET /_next/static/chunks/app/order/%5Bid%5D/LayoutGroupContext.mjs.map 404 in 69ms\n ✓ Compiled /api/orders/[id] in 110ms (954 modules)\n GET /api/orders/2ccf0430-7c00-4385-ac08-caad78637220 200 in 482ms\n ✓ Compiled /api/orders/[id]/status-stream in 97ms (957 modules)\n GET /api/orders/2ccf0430-7c00-4385-ac08-caad78637220/status-stream 200 in 40388ms\nTypeError [ERR_INVALID_STATE]: Invalid state: Controller is already closed\n    at ReadableStreamDefaultController.close (node:internal/webstreams/readablestream:1061:13)\n    at Timeout.eval (webpack-internal:///(rsc)/./app/api/orders/[id]/status-stream/route.ts:41:32)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7) {\n  code: 'ERR_INVALID_STATE'\n}\n ⨯ uncaughtException: TypeError [ERR_INVALID_STATE]: Invalid state: Controller is already closed\n    at ReadableStreamDefaultController.close (node:internal/webstreams/readablestream:1061:13)\n    at Timeout.eval (webpack-internal:///(rsc)/./app/api/orders/[id]/status-stream/route.ts:41:32)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7) {\n  code: 'ERR_INVALID_STATE'\n}\n ⨯ uncaughtException: TypeError [ERR_INVALID_STATE]: Invalid state: Controller is already closed\n    at ReadableStreamDefaultController.close (node:internal/webstreams/readablestream:1061:13)\n    at Timeout.eval (webpack-internal:///(rsc)/./app/api/orders/[id]/status-stream/route.ts:41:32)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7) {\n  code: 'ERR_INVALID_STATE'\n}\n/dev/fd/13:18: command not found: compdef\ngvm@Rushabhs-MacBook-Pro Raftlabs % npm run dev\nnpm error Missing script: \"dev\"\nnpm error\nnpm error To see a list of scripts, run:\nnpm error   npm run\nnpm error A complete log of this run can be found in: /Users/gvm/.npm/_logs/2026-04-29T04_48_07_225Z-debug-0.log\ngvm@Rushabhs-MacBook-Pro Raftlabs % npm \nnpm <command>\n\nUsage:\n\nnpm install        install all the dependencies in your project\nnpm install <foo>  add the <foo> dependency to your project\nnpm test           run this project's tests\nnpm run <foo>      run the script named <foo>\nnpm <command> -h   quick help on <command>\nnpm -l             display usage info for all commands\nnpm help <term>    search for help on <term>\nnpm help npm       more involved overview\n\nAll commands:\n\n    access, adduser, audit, bugs, cache, ci, completion,\n    config, dedupe, deprecate, diff, dist-tag, docs, doctor,\n    edit, exec, explain, explore, find-dupes, fund, get, help,\n    help-search, hook, init, install, install-ci-test,\n    install-test, link, ll, login, logout, ls, org, outdated,\n    owner, pack, ping, pkg, prefix, profile, prune, publish,\n    query, rebuild, repo, restart, root, run-script, sbom,\n    search, set, shrinkwrap, star, stars, start, stop, team,\n    test, token, uninstall, unpublish, unstar, update, version,\n    view, whoami\n\nSpecify configs in the ini-formatted file:\n    /Users/gvm/.npmrc\nor on the command line via: npm <command> --key=value\n\nMore configuration info: npm help config\nConfiguration fields: npm help 7 config\n\nnpm@10.8.2 /usr/local/Cellar/node@20/20.19.4/lib/node_modules/npm\ngvm@Rushabhs-MacBook-Pro Raftlabs % npm i\n\nremoved 36 packages, and audited 2 packages in 749ms\n\nfound 0 vulnerabilities\ngvm@Rushabhs-MacBook-Pro Raftlabs % cd food-delivery-app \ngvm@Rushabhs-MacBook-Pro food-delivery-app % npm run dev\n\n> food-delivery-app@0.1.0 dev\n> next dev\n\n  ▲ Next.js 14.2.35\n  - Local:        http://localhost:3000\n  - Experiments (use with caution):\n    · typedRoutes\n\n ✓ Starting...\n> [PWA] PWA support is disabled\n> [PWA] PWA support is disabled\n ✓ Ready in 1855ms\n ○ Compiling / ...\n ✓ Compiled / in 1985ms (1426 modules)\n GET / 200 in 2485ms\n ✓ Compiled /api/menu in 460ms (749 modules)\n GET /api/menu 200 in 531ms\n GET / 200 in 135ms\n GET /api/menu 200 in 12ms\n ○ Compiling /_not-found ...\n ✓ Compiled /_not-found in 520ms (1458 modules)\n GET /.well-known/appspecific/com.chrome.devtools.json 404 in 691ms\n GET /_next/static/chunks/app/LayoutGroupContext.mjs.map 404 in 267ms\n GET /_next/static/chunks/app/LayoutGroupContext.mjs.map 404 in 263ms\n ✓ Compiled /checkout in 485ms (1620 modules)\n GET /_next/static/chunks/app/checkout/LayoutGroupContext.mjs.map 404 in 73ms\n ✓ Compiled /api/orders in 192ms (941 modules)\n POST /api/orders 201 in 293ms\n ○ Compiling /order/[id] ...\n ✓ Compiled /order/[id] in 512ms (1742 modules)\n GET /_next/static/chunks/app/order/%5Bid%5D/LayoutGroupContext.mjs.map 404 in 69ms\n ✓ Compiled /api/orders/[id] in 110ms (954 modules)\n GET /api/orders/2ccf0430-7c00-4385-ac08-caad78637220 200 in 482ms\n ✓ Compiled /api/orders/[id]/status-stream in 97ms (957 modules)\n GET /api/orders/2ccf0430-7c00-4385-ac08-caad78637220/status-stream 200 in 40388ms\nTypeError [ERR_INVALID_STATE]: Invalid state: Controller is already closed\n    at ReadableStreamDefaultController.close (node:internal/webstreams/readablestream:1061:13)\n    at Timeout.eval (webpack-internal:///(rsc)/./app/api/orders/[id]/status-stream/route.ts:41:32)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7) {\n  code: 'ERR_INVALID_STATE'\n}\n ⨯ uncaughtException: TypeError [ERR_INVALID_STATE]: Invalid state: Controller is already closed\n    at ReadableStreamDefaultController.close (node:internal/webstreams/readablestream:1061:13)\n    at Timeout.eval (webpack-internal:///(rsc)/./app/api/orders/[id]/status-stream/route.ts:41:32)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7) {\n  code: 'ERR_INVALID_STATE'\n}\n ⨯ uncaughtException: TypeError [ERR_INVALID_STATE]: Invalid state: Controller is already closed\n    at ReadableStreamDefaultController.close (node:internal/webstreams/readablestream:1061:13)\n    at Timeout.eval (webpack-internal:///(rsc)/./app/api/orders/[id]/status-stream/route.ts:41:32)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7) {\n  code: 'ERR_INVALID_STATE'\n}\n",
+      "phone": "8980959982"
+    },
+    "status": "Delivered",
+    "totalAmount": 18.99,
+    "createdAt": "2026-04-29T04:51:57.597Z",
+    "updatedAt": "2026-04-29T04:55:03.291Z"
+  },
+  "e0acb269-1d41-4c15-bc0e-a095ba2c1313": {
+    "id": "e0acb269-1d41-4c15-bc0e-a095ba2c1313",
+    "items": [
+      {
+        "menuItem": {
+          "id": "5",
+          "name": "Spicy Tuna Roll",
+          "description": "Sushi-grade tuna, spicy mayo, scallion, and sesame wrapped in premium nori and seasoned rice.",
+          "price": 13.5,
+          "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=1200&q=80&auto=format&fit=crop",
+          "category": "Sushi",
+          "rating": 4.8,
+          "prepTime": 10,
+          "isPopular": true,
+          "calories": 390
+        },
+        "quantity": 1
+      }
+    ],
+    "deliveryDetails": {
+      "name": "vikabhai",
+      "address": "now check all code its assume that written by AI its written by Developer hand written code ",
+      "phone": "8980959982"
+    },
+    "status": "Delivered",
+    "totalAmount": 13.5,
+    "createdAt": "2026-04-29T04:56:50.508Z",
+    "updatedAt": "2026-04-29T04:57:32.358Z"
+  }
+}
